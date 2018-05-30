@@ -1,17 +1,22 @@
 {
   "name": "react-native-openalpr-wink",
-  "version": "1.0.6",
-  "description": "Fork of original react-native-openalpr to fix propTypes issue",
+  "version": "1.0.0",
+  "description": "A fork of the original react-native-openalpr",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WINKgroup/react-native-openalpr.git"
+  },
   "keywords": [
     "react-native"
   ],
-  "author": "CarDash <www.cardash.com>, Evan Rosenfeld",
+  "author": "Quirico Crescenzio <rico.crescenzio@gmail.com>",
   "license": "MIT",
-  "peerDependencies": {
-    "react-native": "^0.41.2"
-  }
+  "bugs": {
+    "url": "https://github.com/WINKgroup/react-native-openalpr/issues"
+  },
+  "homepage": "https://github.com/WINKgroup/react-native-openalpr#readme"
 }
