@@ -1,7 +1,7 @@
 {
-  "name": "react-native-openalpr",
+  "name": "react-native-openalpr-wink",
   "version": "1.0.6",
-  "description": "",
+  "description": "Fork of original react-native-openalpr to fix propTypes issue",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
